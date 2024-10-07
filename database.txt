@@ -2,5 +2,10 @@
 103 Dim 50 4
 102 Apple 250 4
 104 Fish 130 5
-108 Alo 40 4
+108 potato 40 4
 105 Korola 40 4
+112 Mango 160 2
+113 Meet 240 5
+145 Rice 60 2
+133 Agg 60 3
+
